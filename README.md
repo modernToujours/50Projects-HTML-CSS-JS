@@ -13,5 +13,10 @@ Day 7|[Split Landing Page](https://youngwonius.github.io/50Projects-HTML-CSS-JS/
 Day 8|[Form Input Wave](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day8_Form_Input_Wave/)
 Day 9|[Sound Board](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day9_Sound_Board/)
 Day 10|[Dad Jokes](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day10_Dad_Jokes/)
+Day 11|[Event KeyCodes](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day11_Event_KeyCodes/)
+Day 12|[Frequently Asked Questions](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day12_Frequently_Asked_Questions/)
+Day 13|[Random Choice Picker](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day13_Random_Choice_Picker/)
+Day 14|[Animated Navigation](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day14_Animated_Navigation/)
+Day 15|[Increment Counter](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day15_Increment_Counter/)
 
 This repository is based on [Course](https://www.udemy.com/course/50-projects-50-days/) by Brad Traversy.
