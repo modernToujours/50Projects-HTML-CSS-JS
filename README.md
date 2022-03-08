@@ -18,5 +18,10 @@ Day 12|[Frequently Asked Questions](https://youngwonius.github.io/50Projects-HTM
 Day 13|[Random Choice Picker](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day13_Random_Choice_Picker/)
 Day 14|[Animated Navigation](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day14_Animated_Navigation/)
 Day 15|[Increment Counter](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day15_Increment_Counter/)
+Day 16|[Drink Water](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day16_Drink_Water/)
+Day 17|[Movie APP](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day17_Movie_App/)
+Day 18|[Background Slider](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day18_Background_Slider/)
+Day 19|[Theme Clock](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day19_Theme_Clock/)
+Day 20|[Button Ripple Effect](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day20_Button_Ripple_Effect/)
 
 This repository is based on [Course](https://www.udemy.com/course/50-projects-50-days/) by Brad Traversy.
