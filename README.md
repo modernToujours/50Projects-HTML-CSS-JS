@@ -23,5 +23,11 @@ Day 17|[Movie APP](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day17_Mo
 Day 18|[Background Slider](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day18_Background_Slider/)
 Day 19|[Theme Clock](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day19_Theme_Clock/)
 Day 20|[Button Ripple Effect](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day20_Button_Ripple_Effect/)
+Day 21|[Drag N Drop](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day21_Drag_N_Drop/)
+Day 22|[Drawing App](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day22_Drawing_App/)
+Day 23|[Kinetic CSS Loader](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day23_Kinetic_CSS_Loader/)
+Day 24|[Content Placeholder](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day24_Content_Placeholder/)
+Day 25|[Sticky Navbarr](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day25_Sticky_Navbar/)
+Day 26|[Double Vertical Slider](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day26_Double_Vertical_Slider/)
 
 This repository is based on [Course](https://www.udemy.com/course/50-projects-50-days/) by Brad Traversy.
