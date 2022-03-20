@@ -40,8 +40,6 @@ header {
   flex: 3;
 }
 
-.days {
-}
 .day {
   font-size: 20px;
   cursor: pointer;
@@ -49,7 +47,7 @@ header {
   padding: 0.7rem;
 }
 .frame {
-  flex: 9;
+  flex: 7;
 }
 .nav {
   border-radius: 8px;
