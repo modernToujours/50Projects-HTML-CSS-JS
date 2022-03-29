@@ -1,4 +1,4 @@
-# 50Projects-HTML-CSS-JAS
+# 50Projects-HTML-CSS-JAVASCRIPT
 
 Mini web Projects using HTML, CSS and JavaScipt.<br>
 #|[Project](https://youngwonius.github.io/50Projects-HTML-CSS-JS/)
@@ -36,5 +36,22 @@ Day 30|[Auto Text Effect](https://youngwonius.github.io/50Projects-HTML-CSS-JS/D
 Day 31|[Password Generator](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day31_Password_Generator/)
 Day 32|[Good Cheap Fast Checkboxes](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day32_Good_Cheap_Fast_Checkboxes/)
 Day 33|[Notes App](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day33_Notes_App/)
+Day 34|[Animated Countdown](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day34_Animated_Countdown/)
+Day 35|[Image Carousel](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day35_Image_Carousel/)
+Day 36|[Hoverboard](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day36_Hoverboard/)
+Day 37|[Pokedex](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day37_Pokedex/)
+Day 38|[Moblile Tab Navigation](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day38_Mobile_Tab_Navigation/)
+Day 39|[Password Strength Background](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day39_Password_Strength_Background/)
+Day 40|[Background Boxes](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day40_3D_Background_Boxes/)
+Day 41|[Verify Account UI](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day41_Verify_Account_UI/)
+Day 42|[Live user Filter](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day42_Live_user_Filter/)
+Day 43|[Feedback UI Design](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day43_Feedback_UI_Design/)
+Day 44|[Custom Range Slider](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day44_Custom_Range_Slider/)
+Day 45|[Netflix Navigation](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day45_Netflix_Navigation/)
+Day 46|[Quiz App](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day46_Quiz_App/)
+Day 47|[Testimonial Box Switcher](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day47_Testimonial_Box_Switcher/)
+Day 48|[Random Image Feed](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day48_Random_Image_Feed/)
+Day 49|[Todo List](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day49_Todo_List/)
+Day 50|[Insect Catch Game](https://youngwonius.github.io/50Projects-HTML-CSS-JS/Day50_Insect_Catch_Game/)
 
 This repository is based on [Course](https://www.udemy.com/course/50-projects-50-days/) by Brad Traversy.
